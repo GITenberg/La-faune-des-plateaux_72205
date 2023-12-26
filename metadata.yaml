@@ -1,0 +1,35 @@
+_repo: La-faune-des-plateaux_72205
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bernard, Tristan
+    alias: Bernard, Paul
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '55824'
+    url: http://www.gutenberg.org/2009/agents/55824
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Tristan_Bernard
+    - https://fr.wikipedia.org/wiki/Tristan_Bernard
+description: ''
+gutenberg_issued: '2023-11-22'
+identifiers:
+  gutenberg: '72205'
+  lccn: '23017709'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9806847s
+pgterms:marc905: 20230422005635bernard
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bFlammarion, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater'
+- !lcc 'PQ'
+- GITenberg
+title: La faune des plateaux
+url: http://www.gutenberg.org/ebooks/72205
